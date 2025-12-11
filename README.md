@@ -13,26 +13,22 @@ A modern and lightweight automation module that enables reading and writing Exce
 * Lightweight and reusable helper utilities
 * Works with TestNG or JUnit
 * Plug-and-play structure suitable for any automation framework
-
-```text
 QA-Read-Write-Excel-UsingSelinium/
-│
-├── src/test/java/
-│   ├── excel/
-│   │   ├── ExcelReader.java
-│   │   ├── ExcelWriter.java
-│   │   ├── ExcelHelper.java
-│   │
-│   ├── tests/
-│   │   ├── LoginTest.java
-│
-├── testdata/
-│   ├── TestData.xlsx
-│   ├── Result.xlsx
-│
+├── .settings/
+├── src/
+│   ├── main/java/UserClass/SeliniumFileManagementXL/
+│   │   ├── ReadingDataFromExcel.java
+│   │   └── WRITEtoExcel.java
+│   └── test/java/UserClass/SeliniumFileManagementXL/
+│       └── AppTest.java
+├── .classpath
+├── .gitignore
+├── .project
+├── Book1.xlsx
+├── myexcelfilewrite.xlsx
 ├── pom.xml
 └── README.md
-```
+
 ## 🚀 Usage
 
 ### Reading Excel Data
