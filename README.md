@@ -16,27 +16,25 @@ A modern and lightweight automation module that enables reading and writing Exce
 * Works with TestNG or JUnit
 * Plug-and-play structure suitable for any automation framework
 
----
+```text
 QA-Read-Write-Excel-UsingSelinium/
 │
 ├── src/test/java/
-│     ├── excel/
-│     │      ├── ExcelReader.java      // Read utilities
-│     │      ├── ExcelWriter.java      // Write utilities
-│     │      ├── ExcelHelper.java      // Common reusable methods
-│     │
-│     ├── tests/
-│           ├── LoginTest.java         // Sample Selenium test
+│   ├── excel/
+│   │   ├── ExcelReader.java
+│   │   ├── ExcelWriter.java
+│   │   ├── ExcelHelper.java
+│   │
+│   ├── tests/
+│   │   ├── LoginTest.java
 │
 ├── testdata/
-│     ├── TestData.xlsx                // Input
-│     ├── Result.xlsx                  // Output
+│   ├── TestData.xlsx
+│   ├── Result.xlsx
 │
 ├── pom.xml
 └── README.md
-
----
-
+```
 ## 🚀 Usage
 
 ### Reading Excel Data
