@@ -1,6 +1,4 @@
 
----
-
 # QA Read & Write Excel Using Selenium
 
 A modern and lightweight automation module that enables reading and writing Excel data during Selenium test execution. Designed for clean data-driven testing workflows and smooth integration into any Java-based Selenium framework.
@@ -69,9 +67,6 @@ ExcelWriter.writeCellData("Result.xlsx", "Login", 1, 2, "PASS");
 * QA engineers managing external test data
 * Scalable and maintainable test suites
 
----
-
-## 👤 Author
 
 **Lijo Raj P R**
 QA & Automation Engineer
