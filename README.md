@@ -70,5 +70,3 @@ ExcelWriter.writeCellData("Result.xlsx", "Login", 1, 2, "PASS");
 
 **Lijo Raj P R**
 QA & Automation Engineer
-
----
