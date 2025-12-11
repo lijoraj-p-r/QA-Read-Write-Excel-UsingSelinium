@@ -77,5 +77,3 @@ ExcelWriter.writeCellData("Result.xlsx", "Login", 1, 2, "PASS");
 QA & Automation Engineer
 
 ---
-
-If you want a **banner**, **badges**, or a **GitHub-optimized version**, just tell me.
